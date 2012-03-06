@@ -32,5 +32,5 @@ Please don't install this in production *see note about angry sys-admins*
 * If the graph is small edit the value (default 6.6) inside the phpdeps section of gengraph.php
 
 
-No warrenties are provided, either expressed or implied.
+No warranties are provided, either expressed or implied (not even on spelling)
 

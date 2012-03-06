@@ -7,11 +7,11 @@ define('INCLUED_DIR', '/tmp/inclued/'); //With a trailing slash if you would be 
 //Where can this script store temp files and images
 define('TEMP_STORAGE', '/tmp/inclued_temp/'); //With a trailing slash if you would be so kind
 
-define('GENGRAPH_PATH', '/usr/local/lib/php/gengraph.php');
+define('GENGRAPH_PATH', '/usr/local/lib/php/gengraph.php'); //This comes with the inclued package, stick it somewhere swell
 
-define('DOT_PATH', '/usr/local/bin/dot');
+define('DOT_PATH', '/usr/local/bin/dot'); //This comes with graphviz. apt-get install graphviz, which dot
 
-define('PHP_PATH', '/usr/local/bin/php');
+define('PHP_PATH', '/usr/local/bin/php'); //You're on your own skippy
 
 define('DATE_FORMAT', 'M d  h:i:s');
 

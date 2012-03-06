@@ -1,6 +1,7 @@
 This is a single file script designed to provide some UI for Inclued (http://php.net/manual/en/book.inclued.php)
 
-Usage Instructions
+## Usage Instructions
+
 1.  Install inclued extension
 2.  Turn it on, configure it to run automagically with php.ini
 3.  Tell PHP to save the files somewhere, preferably somewhere inteligent. I would suggest against putting them on a tape drive, sys-admins get really scary when they're angry

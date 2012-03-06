@@ -15,3 +15,10 @@ This is a single file script designed to provide some UI for Inclued (http://php
 
 Please don't install this in production *see note about angry sys-admins*
 
+## Debugging Tips
+
+* Ensure you've got graphviz installed, and you know where dot is
+* The program prints out the commands it's trying to execute when things go poorly, run them yourself, see what happens
+* If the graph is small edit the value (default 6.6) inside the phpdeps section of gengraph.php
+
+

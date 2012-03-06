@@ -20,10 +20,10 @@ Sample Image: https://github.com/preinheimer/Inclued-UI/raw/master/inclued-wonde
 Please don't install this in production *see note about angry sys-admins*
 
 ### Sample php.ini addition
-`extension=inclued.so
-inclued.enabled = 1
-inclued.dumpdir = /tmp/inclued/
-`
+`extension=inclued.so`
+`inclued.enabled = 1`
+`inclued.dumpdir = /tmp/inclued/`
+
 
 ## Debugging Tips
 

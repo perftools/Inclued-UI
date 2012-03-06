@@ -19,10 +19,18 @@ Sample Image: https://github.com/preinheimer/Inclued-UI/raw/master/inclued-wonde
 
 Please don't install this in production *see note about angry sys-admins*
 
+### Sample php.ini addition
+`extension=inclued.so
+inclued.enabled = 1
+inclued.dumpdir = /tmp/inclued/
+`
+
 ## Debugging Tips
 
 * Ensure you've got graphviz installed, and you know where dot is
 * The program prints out the commands it's trying to execute when things go poorly, run them yourself, see what happens
 * If the graph is small edit the value (default 6.6) inside the phpdeps section of gengraph.php
 
+
+No warrenties are provided, either expressed or implied.
 

@@ -1,8 +1,10 @@
 # Inclued UI
 
-This is a single file script designed to provide some UI for Inclued (http://php.net/manual/en/book.inclued.php)
+This is a single file script designed to provide some UI for Inclued (https://pecl.php.net/package/inclued)
 
-Sample Image: https://github.com/preinheimer/Inclued-UI/raw/master/inclued-wondernetwork.png
+Sample Image: 
+
+![](https://github.com/perftools/Inclued-UI/raw/master/inclued-wondernetwork.png)
 
 ## Usage Instructions
 
